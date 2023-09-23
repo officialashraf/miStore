@@ -1,0 +1,17 @@
+.NavCard > span{
+ color: orangered;
+}
+.NavCard:hover{
+ box-shadow: 2px 2px 2px 2px solid gray;
+}
+.NavCard{
+    cursor: pointer;
+    width: 10vmax;
+    text-align: center;
+}
+.NavCard >img{
+    width: 10vmax;
+}
+.NavCard >p{
+    margin: 0;
+}
